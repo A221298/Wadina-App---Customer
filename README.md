@@ -1,6 +1,6 @@
 ### wadina customer app
 
-The application will provide many suitable bus companies to customers. Instead of going and searching for the right companies, the customer will be able to view the companies through the application and easily subscribe to the company they choose.
+The application will provide many suitable bus companies to customers. Instead of going and searching for the bus companies through the internet, the customer will be able to easily view the companies through the application and subscribe to the company that suits them.
 
  Start page |  registration page | home page 
  -- | -- | --
